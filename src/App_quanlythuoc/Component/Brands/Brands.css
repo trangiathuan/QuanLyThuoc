@@ -1,0 +1,15 @@
+.brandimg{
+    margin: auto;
+    width: 270px;
+    height: 358px;
+}
+.brandsCard{
+    margin-left: 14%;
+}
+.titleBrands{
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-left: 17%;
+}

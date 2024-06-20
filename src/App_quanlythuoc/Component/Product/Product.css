@@ -1,0 +1,29 @@
+.Product{
+    width: 900px;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+.cardpad{
+    padding: 10px;
+    
+}
+.cardimg{
+    margin: auto;
+    width: 60%;
+    height: 30%;
+}
+.price{
+    text-align: center;
+    font-weight: bold;
+    color: blue;
+}
+#namePr{
+    text-align: center;
+    width: 164px;
+    height: 38px;
+}
+#detailPr{
+    text-align: center;
+    width: 164px;
+    height: 96px;
+}

@@ -1,0 +1,45 @@
+.title-giohang{
+    padding-top: 7%;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+
+.img-cart{
+    height: 100px;
+}
+.td-img{
+    padding-left: 5%;
+    width:350px;
+}
+.td-name{
+    width: 350px;
+    font-weight: bolder;
+    font-size: 17px;
+}
+.td-gia{
+    width: 350px;
+    font-size: 17px;
+    font-weight: bolder;
+    color: blue;
+}
+.td-sl{
+    width: 52px;
+}
+.td-btn{
+    padding-left: 200px;
+}
+.total{
+    padding-top: 50px;
+    padding-left: 50px;
+    font-weight: bolder;
+    font-size: 24px;
+    padding-bottom: 50px;
+}
+.btn-tt{
+    margin-top: -20px;
+    font-weight: bold;
+    margin-left: 205px;
+}

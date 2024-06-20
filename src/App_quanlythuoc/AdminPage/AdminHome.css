@@ -1,0 +1,20 @@
+.title-admin{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+.brg{
+    height: 1000px;
+    position: fixed;
+
+}
+.img-logo-admin{
+    height: 55px;
+
+}
+.dst{
+    margin-left:245px ;
+}
+a{
+    color: white;
+}

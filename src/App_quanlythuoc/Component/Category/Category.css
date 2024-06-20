@@ -1,0 +1,19 @@
+.Category{
+    
+    /* position: fixed; */
+    margin-top: 3%;
+    margin-left: 25%;
+    width: 130%;
+    text-align: left;
+    font-size: 15px;
+    font-weight: 500;
+}
+.title1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 15x;
+    
+}
+.atext{
+    color: black;
+}

@@ -1,0 +1,24 @@
+.Carousel{
+    width: 110%;
+    margin-left: 16%;
+    margin-top: 1%;
+}
+.crsimg{
+   height: 60%;
+    
+}
+.Sub{
+    border-radius: 2px;
+    margin-top: 3%;
+    margin-left: 60%;
+    width: 280px;
+    height: 110px;
+}
+.Sub1{
+    border-radius: 2px;
+    margin-top: 8%;
+    margin-left: 60%;
+    width: 280px;
+    height: 110px;
+
+}

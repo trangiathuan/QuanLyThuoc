@@ -1,0 +1,26 @@
+/*-------------Header---------------*/
+
+nav {
+  background-image: url("/src/App_quanlythuoc/Component/Navbar/Images/bgr-header1.jpg");
+  background-size: cover;
+}
+.title2 {
+  font-size: 18px;
+  color: aliceblue;
+  font-weight: bolder;
+}
+big {
+  margin-left: 28px;
+}
+#btn1 {
+  width: 100px;
+}
+.imgNav{
+  height: 45px;
+}
+.title2:hover {
+  color: chartreuse;
+}
+a {
+  text-decoration: none;
+}
