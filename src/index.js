@@ -58,11 +58,8 @@ root.render(
         <Route path='/Cart' element={<Cart />} />
         <Route path='/Search' element={<Search />} />
         <Route path='/About' element={<About />} />
-
-
       </Routes>
     </BrowserRouter>
-
   </React.StrictMode>
 );
 
